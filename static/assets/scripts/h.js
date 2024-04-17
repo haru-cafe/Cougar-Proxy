@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 })
 
 let splashtext = [
-  'Over 8 Million Users since 2023',
+  'Modified by hj ;)',
   'Fastest growing proxy server',
   'Made by xBubbo',
   'Check out discord.gg/interstellar :)',
